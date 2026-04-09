@@ -6,7 +6,6 @@
 <br/>
 
 <!-- Badge Row -->
-[![GECCO 2026](https://img.shields.io/badge/GECCO_2026-Accepted-00D9FF?style=for-the-badge&logo=academia&logoColor=white)](https://gecco-2024.sigevo.org/)
 [![Research](https://img.shields.io/badge/Evolutionary_AI-Researcher-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)]()
 [![Open to Collabs](https://img.shields.io/badge/Open_To-Collaborations-success?style=for-the-badge&logo=handshake&logoColor=white)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=gearupsmile&style=for-the-badge&color=00D9FF)](https://github.com/gearupsmile)
