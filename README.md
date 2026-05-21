@@ -85,7 +85,7 @@ If you're working on open-ended evolution, alignment, emergence, or weird adapti
 ---
 
 
-## links
+## Links
 
 | | |
 |:---|:---|
@@ -97,13 +97,3 @@ If you're working on open-ended evolution, alignment, emergence, or weird adapti
 | **youtube** | [@AnuzkaSharma](https://youtube.com/@AnuzkaSharma) |
 | **twitter** | [@anuzkash](https://twitter.com/anuzkash) |
 
----
-
-| | |
-|:---|:---|
-| **genesis: emergence** | [genesis-emergence](https://github.com/gearupsmile/genesis-emergence) |
-| **genesis: evolution sandbox** | [github.com/gearupsmile](https://github.com/gearupsmile) |
-| **genesis: platform intro (video)** | [youtube.com/@AnuzkaSharma](https://youtube.com/@AnuzkaSharma) |
-| **VisionIRL** | [github.com/gearupsmile/VisionIRL](https://github.com/gearupsmile/VisionIRL) |
-| **AutoPage** | [AutoLab-SAI-SJTU](https://github.com/AutoLab-SAI-SJTU) |
-| **DeepAgent** | [RUC-NLPIR](https://github.com/RUC-NLPIR) |
