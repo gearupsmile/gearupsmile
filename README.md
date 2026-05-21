@@ -11,7 +11,7 @@
 
 ---
 
-That's the Genesis Engine. A constraint-driven evolutionary system I've been building independently for two years — no lab, no advisor, no funding. The question driving it: *can evolution keep producing novelty when there's literally no goal?*
+That's the Genesis Engine. A constraint-driven evolutionary system I've been building independently for two years - no lab, no advisor, no funding. The question driving it: *can evolution keep producing novelty when there's literally no goal?*
 
 Turns out the answer is yes. And what it does instead is stranger than I expected.
 
@@ -19,7 +19,7 @@ Turns out the answer is yes. And what it does instead is stranger than I expecte
 
 ## the discovery
 
-When I introduced co-evolving physics — removing the fixed environment entirely — something I wasn't looking for appeared:
+When I introduced co-evolving physics - removing the fixed environment entirely — something I wasn't looking for appeared:
 
 | | fixed physics (V4) | co-evolving physics (V5) |
 |:---|:---:|:---:|
@@ -31,7 +31,7 @@ When I introduced co-evolving physics — removing the fixed environment entirel
 
 Internal complexity exploded. Behaviour didn't move.
 
-I call this **structure-function decoupling** — a system that grows internally complex while appearing behaviourally stable to any external observer. Measurable. Reproducible. Sham-controlled.
+I call this **structure-function decoupling** - a system that grows internally complex while appearing behaviourally stable to any external observer. Measurable. Reproducible. Sham-controlled.
 
 And the terrifying part? This maps precisely onto what alignment researchers call deceptive alignment precursors: systems appearing stable externally while internally becoming far more sophisticated.
 
