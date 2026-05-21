@@ -19,7 +19,7 @@ Turns out the answer is yes. And what it does instead is stranger than I expecte
 
 ## The Discovery
 
-When I introduced co-evolving physics - removing the fixed environment entirely — something I wasn't looking for appeared:
+When I introduced co-evolving physics - removing the fixed environment entirely - something I wasn't looking for appeared:
 
 | | Fixed Physics (V4) | Co-evolving Physics (V5) |
 |:---|:---:|:---:|
