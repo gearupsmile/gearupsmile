@@ -1,114 +1,130 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=I+gave+evolution+no+goal.;It+survived+anyway.;10%2C000+generations+later...;I%27m+still+asking+why.)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Badge Row -->
-[![Research](https://img.shields.io/badge/Evolutionary_AI-Researcher-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)]()
-[![Open to Collabs](https://img.shields.io/badge/Open_To-Collaborations-success?style=for-the-badge&logo=handshake&logoColor=white)]()
-[![Profile Views](https://komarev.com/ghpvc/?username=gearupsmile&style=for-the-badge&color=00D9FF)](https://github.com/gearupsmile)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=I+removed+every+fixed+point+from+evolution.;No+goal.+No+reward.+No+environment.+Just+constraints.;10%2C000+generations+later+%E2%80%94+it+still+surprised+me.;Building+the+first+lab-grown+model+of+deceptive+alignment.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## The Question I Can't Stop Asking
+## The question I can't stop asking
 
-Most people ask *"how do I build AI that succeeds?"*
+> *Can an evolutionary process stay productive without any fixed point at all?*
+> No objective. No fixed environment. No fixed encoding. Just constraints.
 
-I asked something different: **what happens when you build AI that has nothing to succeed at?**
+I built **Genesis** to find out.
 
-No fitness function. No reward signal. No goal. Just raw evolutionary pressure — and time.
+[![GECCO 2026](https://img.shields.io/badge/GECCO-2026-blueviolet?style=flat-square)](https://gecco-2026.sigevo.org/)
+[![2 Papers Accepted](https://img.shields.io/badge/Papers_Accepted-2-blueviolet?style=flat-square)]()
+[![p < 0.001](https://img.shields.io/badge/p--value-%3C0.001-brightgreen?style=flat-square)]()
+[![Cohen's d = 1.47](https://img.shields.io/badge/Cohen's_d-1.47_(large)-brightgreen?style=flat-square)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)](https://python.org)
 
-`58.3% sustained activity` across `10,000 generations`.
-
-That's not random noise. That's emergence. And it came out of a system designed to go nowhere.
-
-> **That's the Genesis Engine.** And it's going to GECCO 2026.
-
----
-
-## What I Build
-
-I'm not a "passionate learner" or "aspiring developer."  
-I'm someone who runs experiments at 2am and checks the terminal output before checking my phone.
-
-```python
-# My research question, distilled
-def genesis_engine(population, generations=10_000):
-    # No goal. No reward. Just selection pressure.
-    # Watch what survives.
-    for gen in range(generations):
-        population = evolve(population, fitness=None)  # <-- this is the point
-    return what_remained(population)
-
-# Result: 58.3% activity. Sustained. Unexplained. Fascinating.
-```
+Independent researcher. No lab. No advisor. No funding. Built Genesis across five versions over two years while completing a B.Tech in ECE — because the question wouldn't leave me alone.
 
 ---
 
-## Featured Work
+## What I discovered
+
+<div align="center">
+
+[![Genesis Engine — Structure-Function Decoupling Demo](https://img.youtube.com/vi/si4rqd8P8CU/maxresdefault.jpg)](https://youtu.be/si4rqd8P8CU)
+
+*▶ 60-second demo — click to watch*
+
+</div>
+
+<br/>
+
+When I gave agents co-evolving physics (no fixed environment), something unexpected happened:
+
+| | **Fixed Physics (V4)** | **Co-Evolving Physics (V5)** |
+|---|---|---|
+| Internal nodes | 12 | **12 → 467** (+3,792%) |
+| External behaviour | simple loop | **same simple loop** |
+| Fitness function | none | none |
+| Statistical significance | — | **p < 0.001, d = 1.47** |
+
+Internal structure exploded. External behaviour didn't move.
+
+This is **structure-function decoupling** — a measurable, reproducible, statistically validated phenomenon that maps directly onto what alignment researchers call deceptive alignment: a system that looks safe while growing internally complex.
+
+No one has produced this in a controlled lab setting before. Genesis V5 does.
+
+---
+
+## Papers (GECCO 2026)
+
+📄 **Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding**
+Anushka Sharma. *GECCO 2026 Companion* — Workshop Paper / Extended Abstract
+
+📄 **Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness Functions**
+Anushka Sharma. *GECCO 2026* — Late-Breaking Abstract (Poster)
+
+> Sham-controlled design · 12 independent runs · 10,000 generations · Novel metrics: CARP + PNCT
+> Preprints available on [ResearchGate](https://researchgate.net/profile/Anushka-Sharma-Genesis)
+
+💻 **Main repo** → [genesis-emergence](https://github.com/gearupsmile/genesis-emergence)
+
+---
+
+## What I work on
+
+| Research area | What I've built |
+|---|---|
+| **Open-ended evolution without objectives** | Genesis V2–V5 · sham-controlled methodology · 1M+ generation experiments |
+| **Niche construction + co-evolution** | Secretion physics · POET-style environment evolution · ANNEX transfer metric |
+| **CPPN indirect encoding + NEAT speciation** | Incrementally-growing genomes · protected structural innovations |
+| **AI safety via model organisms** | First reproducible platform for structure-function decoupling (p < 0.001) |
+| **Edge AI & embedded systems** | YOLOv5s on Snapdragon NPU · >20 FPS · <50ms latency |
+
+---
+
+## Other work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧬 Genesis Engine
-**Constraint-Driven Evolutionary AI**
+### 👁️ VisionIRL
+**Qualcomm Edge AI Hackathon — Top 10 / 650+ teams**
 
-Built a system where agents evolve under environmental constraints — zero explicit objective. The question was whether meaningful structure would emerge anyway.
+Offline-first AI navigation for visually impaired users. Quantized YOLOv5s on Snapdragon NPU — no cloud, no latency, no compromise.
 
-It did.
+`Python` · `TFLite` · `OpenCV` · `Snapdragon NPU`
 
-- 📈 `58.3%` sustained behavioral activity
-- 🔬 Accepted to **GECCO 2026**
-- 🧠 Novel framework for goalless AI systems
-- 🛠️ Python · DEAP · NumPy · Matplotlib
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gearupsmile/genesis-engine)
+[![Repo](https://img.shields.io/badge/View_Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/gearupsmile/VisionIRL)
 
 </td>
 <td width="50%">
 
-### 👁️ VisionIRL
-**Computer Vision Meets the Real World**
+### 🔬 SynthPredict
+**Google Girl Hackathon — Round 3 (national)**
 
-Because the gap between "works on benchmark datasets" and "works on your phone camera" is embarrassingly wide. This closes it.
+98% prediction accuracy for RTL combinational depth estimation. Ensemble MLP + XGBoost with SHAP interpretability.
 
-- ⚡ Real-time inference pipeline
-- 📱 Edge-device optimized
-- 🎯 Designed for deployment, not demos
-- 🛠️ Python · OpenCV · TensorFlow Lite
+`Python` · `scikit-learn` · `XGBoost` · `SHAP`
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gearupsmile/visionirl)
+[![Repo](https://img.shields.io/badge/View_Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/gearupsmile)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏆 Google Hackathon Project
-**Built Under Pressure. Shipped Anyway.**
+### 🛸 Autonomous Drone Charging
+**Current project**
 
-Some projects you plan for months.  
-Some you build in 24 hours with 3 other humans on caffeine.  
-This was the second kind. It worked.
+AprilTag precision landing + inductive charging. 6-DOF pose estimation, PID control, full autonomy stack.
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gearupsmile)
+`OpenCV` · `Python` · `Embedded C++` · `Pixhawk`
 
 </td>
 <td width="50%">
 
-### 🔭 What's Next
-**Currently in the lab:**
-
-- Extending Genesis Engine post-GECCO
-- Exploring how constraint shapes intelligence (not just behavior)
-- Asking questions that don't have papers yet
-
-*The best projects start with "I wonder if..."*
+### 🔓 Open Source
+**AutoPage** (AutoLab-SAI-SJTU) — merged PR, 1,000+ active users
+**DeepAgent** (RUC-NLPIR) — emotional context framework; 40% reduction in task failure rate
 
 </td>
 </tr>
@@ -116,42 +132,12 @@ This was the second kind. It worked.
 
 ---
 
-## The Stack
+## Stats
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML / Research**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-</div>
-
----
-
-## By the Numbers
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gearupsmile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearupsmile&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gearupsmile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearupsmile&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
 </div>
 
@@ -163,18 +149,20 @@ This was the second kind. It worked.
 
 ---
 
-## Let's Think Together
+## Let's think together
 
-I'm most interested in people who ask strange questions and follow them seriously.
+I'm most interested in people working on open-endedness, emergent behaviour, or systems that genuinely surprise their creators.
 
-If you're working on **evolutionary computation, emergent AI behavior, or systems that surprise their creators** — let's talk.
+If you're at a lab working on alignment evaluations, model organisms, or evolutionary computation — I'm not looking for a job offer. I'm looking for the right problem to work on next, with people who think carefully about it.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka.care@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/anuzka/))
+[![Email](https://img.shields.io/badge/anushka.care@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka.care@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuzka)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuzkash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://anuzkasharma.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://gearupsmile.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/Anushka-Sharma-Genesis)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AnuzkaSharma)
 
 </div>
 
@@ -182,8 +170,7 @@ If you're working on **evolutionary computation, emergent AI behavior, or system
 
 <div align="center">
 
-*"Evolution doesn't optimize.*  
-*It explores.*  
+*"Evolution doesn't optimize. It explores.*
 *Maybe AI should do the same."*
 
 **— Genesis Engine, Generation 10,000**
