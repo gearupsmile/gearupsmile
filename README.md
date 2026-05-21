@@ -93,7 +93,7 @@ If you're working on open-ended evolution, alignment, emergence, or weird adapti
 | **linkedin** | [linkedin.com/in/anuzka](https://linkedin.com/in/anuzka) |
 | **github** | [github.com/gearupsmile](https://github.com/gearupsmile) |
 | **portfolio** | [gearupsmile.github.io](https://gearupsmile.github.io) |
-| **researchgate** | [researchgate.net/profile/Anushka-Sharma-Genesis](https://researchgate.net/profile/Anushka-Sharma-Genesis) |
+| **researchgate** | [researchgate.net/profile/Anushka-Sharma-77]((https://www.researchgate.net/profile/Anushka-Sharma-77)) |
 | **youtube** | [@AnuzkaSharma](https://youtube.com/@AnuzkaSharma) |
 | **twitter** | [@anuzkash](https://twitter.com/anuzkash) |
 
