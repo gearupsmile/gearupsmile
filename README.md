@@ -1,4 +1,3 @@
-Got it — you want the LinkedIn post rewritten **in the README's style and format**. Here it is:
 
 ---
 
@@ -85,5 +84,3 @@ If you're working on open-ended evolution, alignment, emergence, or weird adapti
 </div>
 
 ---
-
-The main moves: matched the README's terse section headers, dropped the LinkedIn-ey emoji and hype outro, pulled the table and code block in directly, kept your voice but let the data do the talking.
