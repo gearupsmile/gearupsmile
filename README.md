@@ -17,16 +17,16 @@ Turns out the answer is yes. And what it does instead is stranger than I expecte
 
 ---
 
-## the discovery
+## The Discovery
 
 When I introduced co-evolving physics - removing the fixed environment entirely — something I wasn't looking for appeared:
 
-| | fixed physics (V4) | co-evolving physics (V5) |
+| | Fixed Physics (V4) | Co-evolving Physics (V5) |
 |:---|:---:|:---:|
-| internal nodes | 12 | **467** |
-| growth | none | **+3,792%** |
-| external behaviour | simple loop | **same simple loop** |
-| fitness function | none | none |
+| Internal Nodes | 12 | **467** |
+| Growth | none | **+3,792%** |
+| External Behaviour | Simple Loop | **Same Simple Loop** |
+| Fitness Function | None | None |
 | p-value | — | **< 0.001** |
 
 Internal complexity exploded. Behaviour didn't move.
@@ -39,7 +39,7 @@ Genesis accidentally became a lab organism for studying that phenomenon.
 
 ---
 
-## papers
+## Papers
 
 **Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding**
 *GECCO 2026 Companion — Workshop Paper / Extended Abstract*
@@ -53,25 +53,25 @@ Preprints → [ResearchGate](https://researchgate.net/profile/Anushka-Sharma-Gen
 
 ---
 
-## by the numbers
+## By The Numbers
 
 ```
-2       papers accepted at GECCO 2026
-467     internal nodes (from 12) — behaviour unchanged
-1M+     generations run across all experiments
-12      independent runs, all statistically consistent
-0       fitness functions used. ever.
+2       Papers accepted at GECCO 2026
+467     Internal nodes (from 12) - behaviour unchanged
+1M+     Generations run across all experiments
+12      Independent runs, all statistically consistent
+0       Fitness Functions used. ever.
 ```
 
 ---
 
-## let's think together
+## Let's Think Together
 
 Removing objectives entirely seems to reveal a different kind of evolution — driven by environmental tension, co-adaptation, and structural pressure instead of explicit optimization. Watching it happen feels less like programming and more like discovering a weird law of artificial nature.
 
 I'm not looking for a job offer. I'm looking for the right problem to work on next.
 
-If you're working on open-ended evolution, alignment, emergence, or weird adaptive systems — I'd genuinely like to hear what you're stuck on.
+If you're working on open-ended evolution, alignment, emergence, or weird adaptive systems - I'd genuinely like to hear what you're stuck on.
 
 ---
 
